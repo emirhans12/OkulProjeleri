@@ -1,0 +1,12 @@
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\obj\Debug\netcoreapp3.1\İs_adayı_secme.AssemblyInfoInputs.cache
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\obj\Debug\netcoreapp3.1\İs_adayı_secme.AssemblyInfo.cs
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\obj\Debug\netcoreapp3.1\İs_adayı_secme.csproj.CoreCompileInputs.cache
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\bin\Debug\netcoreapp3.1\İs_adayı_secme.exe
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\bin\Debug\netcoreapp3.1\İs_adayı_secme.deps.json
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\bin\Debug\netcoreapp3.1\İs_adayı_secme.runtimeconfig.json
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\bin\Debug\netcoreapp3.1\İs_adayı_secme.runtimeconfig.dev.json
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\bin\Debug\netcoreapp3.1\İs_adayı_secme.dll
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\bin\Debug\netcoreapp3.1\İs_adayı_secme.pdb
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\obj\Debug\netcoreapp3.1\İs_adayı_secme.dll
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\obj\Debug\netcoreapp3.1\İs_adayı_secme.pdb
+D:\Vedat Balcı\13.07.2021\13.07.2021_kosullu_ifadeler\İs_adayı_secme\obj\Debug\netcoreapp3.1\İs_adayı_secme.genruntimeconfig.cache
