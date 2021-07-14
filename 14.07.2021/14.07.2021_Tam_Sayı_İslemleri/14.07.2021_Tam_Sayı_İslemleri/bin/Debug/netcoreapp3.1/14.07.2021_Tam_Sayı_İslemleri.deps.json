@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "14.07.2021_Tam_Sayı_İslemleri/1.0.0": {
+        "runtime": {
+          "14.07.2021_Tam_Sayı_İslemleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14.07.2021_Tam_Sayı_İslemleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

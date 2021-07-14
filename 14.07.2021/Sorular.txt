@@ -1,0 +1,5 @@
+14/07/2021 Çalışmalar 
+1 - Kullanıcının gireceği iki tane tam sayıya göre eğer ilk sayı sıfırdan büyük ise mesaj olarak ilk sayınız pozifittir desin ve ilk sayının küpünü hesaplayıpp göstersin. şayet ilk sayı 0 dan küçük ise ilk sayınız negatifitir mesajı versin ve sayıyı aynı sayı ile çarpsın
+2.sayıyımız şayet 0 dan büyük ise 2. sayımız pozitif desin. Ve ilk sayıyıla toplasın şayet 2. sayıyımız 0 dan küçük ise sayımız negatiftir desin ve ilk sayıdan 2. sayıyı çıkarsın. Şayet ilk sayı 0 dan büyük ise ve 2. sayı 1 den küçük eşit ise bu iki sayıdan büyük olanını bulsun göstersin değil ise küçük olan sayıyı göstersin şayet ilk sayı 0 dan büyük yada 0 a eşit ise veya 2. sayı 1 den küçük ise ilk sayının çift mi tek mi olduğunu bul Şayet değil ise Şu formül uygulansın a.a+b.b işslemi yapılsın.
+
+ 

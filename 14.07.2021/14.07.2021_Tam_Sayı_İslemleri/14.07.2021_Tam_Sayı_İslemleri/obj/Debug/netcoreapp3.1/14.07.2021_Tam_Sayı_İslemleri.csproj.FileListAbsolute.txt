@@ -1,0 +1,13 @@
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\bin\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.exe
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\bin\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.deps.json
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\bin\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.runtimeconfig.json
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\bin\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.runtimeconfig.dev.json
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\bin\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.dll
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\bin\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.pdb
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\obj\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.csproj.AssemblyReference.cache
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\obj\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.AssemblyInfoInputs.cache
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\obj\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.AssemblyInfo.cs
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\obj\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.csproj.CoreCompileInputs.cache
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\obj\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.dll
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\obj\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.pdb
+D:\Vedat Balcı\14.07.2021\14.07.2021_Tam_Sayı_İslemleri\14.07.2021_Tam_Sayı_İslemleri\obj\Debug\netcoreapp3.1\14.07.2021_Tam_Sayı_İslemleri.genruntimeconfig.cache
